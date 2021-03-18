@@ -1,0 +1,28 @@
+{
+  "libros": [
+    { 
+      "id": 1, 
+      "nombre": "Modern CSS",
+      "autor": {"nombre":"Attardi, Joe"},
+      "isbn":"978-1-4842-6294-8", 
+      "img": "https://media.springernature.com/w153/springer-static/cover/book/9781484262948.jpg",
+      "editorial":"Apress",
+      "año": 2020,
+      "area": "Tecnica" 
+    },
+    { 
+      "id": 2, 
+      "nombre": "HTML & CSS: The Good Parts",
+      "autor": {"nombre":"Ben Henick"},
+      "isbn":"9780596157609", 
+      "img": "https://learning.oreilly.com/library/cover/9781449381943/250w/",
+      "editorial":"O'Reilly Media, Inc",
+      "año": 2010,
+      "area": "Tecnica"    
+    }
+  ],
+  "server": {
+    "autor": "Luis",
+    "for": "itte-class"
+  }
+}
