@@ -19,6 +19,36 @@
       "editorial":"O'Reilly Media, Inc",
       "año": 2010,
       "area": "Tecnica"    
+    },
+    { 
+      "id": 3, 
+      "nombre": "JavaScript: The Definitive Guide, 7th Edition",
+      "autor": {"nombre":"David Flanagan"},
+      "isbn":"9781491952023", 
+      "img": "https://learning.oreilly.com/library/cover/9781491952016/250w/",
+      "editorial":"O'Reilly Media, Inc",
+      "año": 2020,
+      "area": "Tecnica"    
+    },
+    { 
+      "id": 4, 
+      "nombre": "La Odisea",
+      "autor": {"nombre":"Homero"},
+      "isbn":"9789871512706", 
+      "img": "https://http2.mlstatic.com/D_NQ_NP_6115-MLA4631103082_072013-O.webp",
+      "editorial":"Libertador",
+      "año": 2012,
+      "area": "Literatura"    
+    },
+    { 
+      "id": 5, 
+      "nombre": "El principe",
+      "autor": {"nombre":"Nicolás Maquiavelo"},
+      "isbn":"9789871512409", 
+      "img": "https://http2.mlstatic.com/D_NQ_NP_6115-MLA4631103082_072013-O.webp",
+      "editorial":"Libertador",
+      "año": 2016,
+      "area": "Literatura"    
     }
   ],
   "server": {
